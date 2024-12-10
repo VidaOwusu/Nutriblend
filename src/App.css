@@ -1,0 +1,14 @@
+/* App.css */
+html {
+  scroll-behavior: smooth;
+}
+
+.section {
+  padding: 40px 0;
+  scroll-snap-align: start;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
